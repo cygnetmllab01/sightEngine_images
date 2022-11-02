@@ -1,0 +1,82 @@
+-----Output Report-----
+Sample 1:
+Time Taken 0:0.99 Seconds
+{'status': 'success', 'request': {'id': 'req_cNW8c4ABdRzO0UfhqeM0R', 'timestamp': 1666342604.650235, 'operations': 1}, 'weapon': 0.66, 'alcohol': 0.01, 'drugs': 0.01, 'media': {'id': 'med_cNW88fNTYqnVVL7upcB4Z', 'uri': 'https://image.shutterstock.com/image-photo/deadly-combination-alcohol-firearms-on-260nw-148487273.jpg'}}
+----------------------------------------------------------------------------------------------------
+Sample 2:
+Time Taken 1:0.78 Seconds
+{'status': 'success', 'request': {'id': 'req_cNW87CkVs4HjKLIMgWLOH', 'timestamp': 1666342605.634558, 'operations': 1}, 'weapon': 0.85, 'alcohol': 0.01, 'drugs': 0.01, 'media': {'id': 'med_cNW8CYUqME2m1ku1pB6lF', 'uri': 'https://crimefictionbook.files.wordpress.com/2017/05/alcohol-and-guns.jpeg?w=676&h=379'}}
+----------------------------------------------------------------------------------------------------
+Sample 3:
+Time Taken 2:1.05 Seconds
+{'status': 'success', 'request': {'id': 'req_cNW8QkwHyMCK3ombSWaIF', 'timestamp': 1666342606.414924, 'operations': 1}, 'weapon': 0.01, 'alcohol': 0.02, 'drugs': 0.01, 'media': {'id': 'med_cNW8OXbeNKG2P5LW263qZ', 'uri': 'https://media.istockphoto.com/photos/glass-of-whiskey-cognac-or-bourbon-with-revolver-and-bullets-on-picture-id960698200?k=20&m=960698200&s=612x612&w=0&h=YH0w1dg1u6NiIez_LdpYpCcg7pZuQjvG0y-XFW145Lk='}}
+----------------------------------------------------------------------------------------------------
+Sample 4:
+Time Taken 3:0.83 Seconds
+{'status': 'success', 'request': {'id': 'req_cNW8I9bMWeTXzxC9PfBbn', 'timestamp': 1666342607.478818, 'operations': 1}, 'weapon': 0.74, 'alcohol': 0.45, 'drugs': 0.01, 'media': {'id': 'med_cNW8cL3KaDDNhgp7ara4x', 'uri': 'https://i.pinimg.com/736x/99/62/a3/9962a33c35c149650f0410971fc90831.jpg'}}
+----------------------------------------------------------------------------------------------------
+Sample 5:
+Time Taken 4:1.81 Seconds
+{'status': 'success', 'request': {'id': 'req_cNW8SwonTZLqtj7Tj7kx3', 'timestamp': 1666342608.317224, 'operations': 1}, 'weapon': 0.8, 'alcohol': 0.01, 'drugs': 0.01, 'media': {'id': 'med_cNW8GswIzk60Hwt5p6g9y', 'uri': 'https://i.pinimg.com/736x/97/5e/b8/975eb8ae8f22db2f40bebcc3c4dd0666--manly-man-cigars.jpg'}}
+----------------------------------------------------------------------------------------------------
+Sample 6:
+Time Taken 5:1.04 Seconds
+{'status': 'success', 'request': {'id': 'req_cNW8G9xoqDzK6D9UfFVzF', 'timestamp': 1666342610.139676, 'operations': 1}, 'weapon': 0.92, 'alcohol': 0.28, 'drugs': 0.01, 'media': {'id': 'med_cNW8FVEdZOFKcBKEO4G8M', 'uri': 'https://i.pinimg.com/originals/94/e3/da/94e3da43ffd8fd4149c2b31069d1a673.jpg'}}
+----------------------------------------------------------------------------------------------------
+Sample 7:
+Time Taken 6:1.33 Seconds
+{'status': 'success', 'request': {'id': 'req_cNW8fg6x0Q5XA5wdFOKbX', 'timestamp': 1666342611.164088, 'operations': 1}, 'weapon': 0.78, 'alcohol': 0.01, 'drugs': 0.01, 'media': {'id': 'med_cNW83Ma2yYQMTnox4mex1', 'uri': 'https://i.pinimg.com/originals/07/68/3d/07683d253498aa0217987e738e5bcf55.jpg'}}
+----------------------------------------------------------------------------------------------------
+Sample 8:
+Time Taken 7:1.31 Seconds
+{'status': 'success', 'request': {'id': 'req_cNW82iKaMyPLizRAzSLHz', 'timestamp': 1666342612.497199, 'operations': 1}, 'weapon': 0.93, 'alcohol': 0.01, 'drugs': 0.01, 'media': {'id': 'med_cNW8JNr0deZvT8AWGHfNJ', 'uri': 'https://i.pinimg.com/originals/81/92/1c/81921cb87b63e33f115f2d30a9ea9158.jpg'}}
+----------------------------------------------------------------------------------------------------
+Sample 9:
+Time Taken 8:2.77 Seconds
+{'status': 'success', 'request': {'id': 'req_cNW8eb0UuLna5rfRU0J2a', 'timestamp': 1666342613.816195, 'operations': 1}, 'weapon': 0.51, 'alcohol': 0.77, 'drugs': 0.01, 'media': {'id': 'med_cNW80PRrpFdZG8RQio26z', 'uri': 'https://i.pinimg.com/originals/76/e7/8a/76e78ab7b8251153039713e603ef7e44.jpg'}}
+----------------------------------------------------------------------------------------------------
+Sample 10:
+Time Taken 9:1.69 Seconds
+{'status': 'success', 'request': {'id': 'req_cNW8yazVTbTyIDT4NuEbe', 'timestamp': 1666342616.58849, 'operations': 1}, 'weapon': 0.95, 'alcohol': 0.01, 'drugs': 0.01, 'media': {'id': 'med_cNW8mcGJsHUmbOp6ZmzIj', 'uri': 'https://i.pinimg.com/originals/e2/dc/bf/e2dcbfe527b93dc9075c8d1b90f1b97d.jpg'}}
+----------------------------------------------------------------------------------------------------
+Sample 11:
+Time Taken 10:1.10 Seconds
+{'status': 'success', 'request': {'id': 'req_cNW8PuvE3bGsAe9deUsLK', 'timestamp': 1666342618.29931, 'operations': 1}, 'weapon': 0.83, 'alcohol': 0.01, 'drugs': 0.01, 'media': {'id': 'med_cNW8wE4HJIPsxgskdQS2w', 'uri': 'https://i.pinimg.com/originals/61/e9/e5/61e9e5792701a8ff33b7deb06432bbf6.jpg'}}
+----------------------------------------------------------------------------------------------------
+Sample 12:
+Time Taken 11:1.99 Seconds
+{'status': 'success', 'request': {'id': 'req_cNW8GwSojLVGE3vzgI9T8', 'timestamp': 1666342619.395431, 'operations': 1}, 'weapon': 0.57, 'alcohol': 0.01, 'drugs': 0.01, 'media': {'id': 'med_cNW9I4arhGBSjwqFIFoTP', 'uri': 'https://www.wallpaperup.com/uploads/wallpapers/2016/04/14/930249/d90e4b8b0ad4619657bddc06c746163d.jpg'}}
+----------------------------------------------------------------------------------------------------
+Sample 13:
+Time Taken 12:0.40 Seconds
+{'status': 'failure', 'request': {'id': 'req_cNW90rEVeh8NfsawBjqJt', 'timestamp': 1666342621.387641, 'operations': 0}, 'error': {'type': 'media_error', 'code': 12, 'message': 'Could not download media. The media server returned an HTTP 403 Forbidden Error. Please make sure the media URL is correct and publicly available. If it is not publicly available then consider sending the raw bytes to the API.'}}
+----------------------------------------------------------------------------------------------------
+Sample 14:
+Time Taken 13:0.39 Seconds
+{'status': 'failure', 'request': {'id': 'req_cNW952azwXVUuSP3NuTPM', 'timestamp': 1666342621.788329, 'operations': 0}, 'error': {'type': 'media_error', 'code': 12, 'message': 'Could not download media. The media server returned an HTTP 403 Forbidden Error. Please make sure the media URL is correct and publicly available. If it is not publicly available then consider sending the raw bytes to the API.'}}
+----------------------------------------------------------------------------------------------------
+Sample 15:
+Time Taken 14:0.79 Seconds
+{'status': 'success', 'request': {'id': 'req_cNW9REEBcx3d6XWL4vR6e', 'timestamp': 1666342622.170261, 'operations': 1}, 'weapon': 0.01, 'alcohol': 0.01, 'drugs': 0.37, 'media': {'id': 'med_cNW9TwRIgKg0zwf3NrAVJ', 'uri': 'https://thumbs.dreamstime.com/b/whiskey-ice-glass-glass-pills-drugs-nearby-concept-harm-alcohol-drugs-human-body-210922946.jpg'}}
+----------------------------------------------------------------------------------------------------
+Sample 16:
+Time Taken 15:2.95 Seconds
+{'status': 'success', 'request': {'id': 'req_cNW92Y4uKmJ05SD5m4dGP', 'timestamp': 1666342622.964292, 'operations': 1}, 'weapon': 0.01, 'alcohol': 0.01, 'drugs': 0.66, 'media': {'id': 'med_cNW9AcATONTQaBPPWFOI4', 'uri': 'https://www.indiaspend.com/h-upload/2021/07/21/516856-prescription-drugs-controlled-chemicals-are-fuelling-indias-illicit-drug-trade-reports.jpg'}}
+----------------------------------------------------------------------------------------------------
+Sample 17:
+Time Taken 16:2.96 Seconds
+{'status': 'success', 'request': {'id': 'req_cNW9q1anWOMpO9qErzIIU', 'timestamp': 1666342625.92706, 'operations': 1}, 'weapon': 0.01, 'alcohol': 0.81, 'drugs': 0.01, 'media': {'id': 'med_cNW9qdCsF7vJcBy1fgLYr', 'uri': 'https://schools.au.reachout.com/-/media/schools/images/legacy-articles/beer-bottles-and-plastic-cups-full-of-beer-in-toast.jpg'}}
+----------------------------------------------------------------------------------------------------
+Sample 18:
+Time Taken 17:0.95 Seconds
+{'status': 'success', 'request': {'id': 'req_cNW9BxR4ICevkYoEX1xUB', 'timestamp': 1666342628.906211, 'operations': 1}, 'weapon': 0.01, 'alcohol': 0.01, 'drugs': 0.77, 'media': {'id': 'med_cNW90jL6b1v061aRHLfJl', 'uri': 'https://cdn.mos.cms.futurecdn.net/WaZJghxxpZP8LujWa588ad-1200-80.jpg'}}
+----------------------------------------------------------------------------------------------------
+Sample 19:
+Time Taken 18:19.74 Seconds
+{'status': 'success', 'request': {'id': 'req_cNW9B1q4snNaxRGxsIAD3', 'timestamp': 1666342629.843286, 'operations': 1}, 'weapon': 0.01, 'alcohol': 0.02, 'drugs': 0.94, 'media': {'id': 'med_cNW934tMmwPXQNsKPPfbY', 'uri': 'http://www.washingtonpost.com/blogs/wonkblog/files/2016/07/12188202913_f4bc6d1215_h.jpg'}}
+----------------------------------------------------------------------------------------------------
+Sample 20:
+Time Taken 19:0.93 Seconds
+{'status': 'success', 'request': {'id': 'req_cNW9upatPWNr9lnFbJ6hU', 'timestamp': 1666342649.609534, 'operations': 1}, 'weapon': 0.01, 'alcohol': 0.48, 'drugs': 0.04, 'media': {'id': 'med_cNW9ioH9a3MNVCfxBR6qd', 'uri': 'https://64.media.tumblr.com/9f757c847c545668c2dc9abb1bf98f55/tumblr_nywjc0pVFn1umx2kso2_500.jpg'}}
+----------------------------------------------------------------------------------------------------
+Total Time Taken by all images:45.88 Seconds
